@@ -229,7 +229,7 @@ my-package/
 
 チュートリアルは[こちら](https://atom.io/docs/v0.84.0/your-first-package)です。
 
-また、TexMateのコンバートガイド([TextMate bundles](https://atom.io/docs/v0.84.0/converting-a-text-mate-bundle),[TextMate themes](https://atom.io/docs/v0.84.0/converting-a-text-mate-theme))もあります。
+また、TextMateのコンバートガイド([TextMate bundles](https://atom.io/docs/v0.84.0/converting-a-text-mate-bundle),[TextMate themes](https://atom.io/docs/v0.84.0/converting-a-text-mate-theme))もあります。
 
 ### package.json
 
